@@ -48,7 +48,7 @@ This project addresses these problems with a structured pipeline:
 4. Technical indicators are computed for trend detection.
 5. Plots are generated and saved to an `output/` folder.
 
-   **author**wickliff ** aspring data engineer**
+   **author**  wickliff ** aspring data engineer**
 
 
 
